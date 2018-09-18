@@ -1,5 +1,7 @@
 # Algoritmo de Ordenção por Comporação (Extra)
 
+*Algoritmo implementado em Java 8.*
+
 ## Comb Sort
 
 - A distancia começa por gap = tamanho/fator (fator=1.25)
